@@ -12,6 +12,7 @@ require.config({
         , "workjs01": "work/workjs01"
         , "workjs02": "work/workjs02"
         , "underscore": "" //路径未提供，可网上搜索然后加上即可  
+        ,"test":'work/test'
     }
 
     //include NOT AMD specification js frame code  
