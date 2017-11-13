@@ -8,6 +8,7 @@ require.config({
         , "workjs01": "work/workjs01"
         , "workjs02": "work/workjs02"
         , "underscore": "" //路径未提供，可网上搜索然后加上即可  
+        ,"test":'work/test'
     }
     //包含其它非AMD规范的JS框架  
     , shim: {
