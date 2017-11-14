@@ -18,6 +18,7 @@ require.config({
     }
 
 });
+//我修改了分支dev-20171114
 //按不同先后的依赖关系加载各个JS文件  
 require(["jquery", "workjs01"], function ($, w1) {
     require(['workjs02']);
